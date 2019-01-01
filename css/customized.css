@@ -2,3 +2,7 @@
 ul.remove-bullet {
     list-style-type: none;
 }
+
+.tagcloud a:hover {
+    background-color: transparent !important;
+}
