@@ -6,3 +6,7 @@ ul.remove-bullet {
 .tagcloud a:hover {
     background-color: transparent !important;
 }
+
+.button.icon.circle {
+    color: #364d6a;
+}
